@@ -1,0 +1,4 @@
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp mr.f\mine\fpchatserverclient\Server\x64\Debug\Server.exe
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp mr.f\mine\fpchatserverclient\Server\x64\Debug\Server.pdb
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp pak fahim\mine\fpchatserverclientfirst\Server\x64\Debug\Server.exe
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp pak fahim\mine\fpchatserverclientfirst\Server\x64\Debug\Server.pdb

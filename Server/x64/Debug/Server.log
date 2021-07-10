@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Server.cpp
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp pak fahim\mine\fpchatserverclientfirst\Server\Server.cpp(73,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp pak fahim\mine\fpchatserverclientfirst\Server\Server.cpp(87,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerHandle.cpp
+D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp pak fahim\mine\fpchatserverclientfirst\Server\ServerHandle.cpp(45,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Server.vcxproj -> D:\Kelas 2\semester 4\tugas\Praktikum Arsitektur Jaringan dan Komputer\fp pak fahim\mine\fpchatserverclientfirst\Server\x64\Debug\Server.exe

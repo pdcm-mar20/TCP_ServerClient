@@ -19,7 +19,7 @@ private:
 	int byteSize;
 	char* data;
 
-	void Recieve();
+	void Receive();
 	void Send();
 
 public:

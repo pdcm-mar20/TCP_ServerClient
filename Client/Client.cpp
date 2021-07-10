@@ -50,7 +50,7 @@ int Client::Initialize() {
 		Sleep(1000);
 	}
 	// Print massage if connected
-	std::cout << " >> Connected : " << mysocket << "\n";
+	std::cout << " >> Connected " << "\n";
 
 	// If everything is fine
 	return 0;
@@ -58,13 +58,13 @@ int Client::Initialize() {
 
 void Client::Start() {
 	// Start thread to recieve data from server
-	std::thread recieveThread(&Client::Recieve, this);
+	std::thread recieveThread(&Client::Receive, this);
 	std::thread sendThread(&Client::Send, this);
 	sendThread.join();
 	recieveThread.join();
 }
 
-void Client::Recieve() {
+void Client::Receive() {
 	while (true)
 	{
 		ZeroMemory(data, byteSize);
