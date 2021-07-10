@@ -12,9 +12,9 @@ Final Project Praktikum Arsitektur Jaringan dan Komputer
 6. Anda sudah bisa melakukan chat melalui Client
 
 # Flowchart TCP
-![flow tcp](https://user-images.githubusercontent.com/63573499/125155148-23f51c00-e188-11eb-82e2-3bc08af602d8.png)
+![flow tcp](https://user-images.githubusercontent.com/63573499/125156255-c0222180-e18e-11eb-8c9d-8673ffd0b6e5.png)
 
 # Flowchart project
-![flow chat](https://user-images.githubusercontent.com/63573499/125155172-3d966380-e188-11eb-935a-c3c93b4604bb.png)
+![flow chat](https://user-images.githubusercontent.com/63573499/125156258-c4e6d580-e18e-11eb-832c-c49caf728e4a.png)
 
 # Output
